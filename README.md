@@ -1,4 +1,5 @@
-# pluralsight-js-dev-env PROD_URL: http://deranged-battle.surge.sh/
+# pluralsight-js-dev-env PROD_URL_UI: http://deranged-battle.surge.sh/
+# pluralsight-js-dev-env PROD_URL_BACKEND: https://infinite-meadow-12725.herokuapp.com/
 <!-- React Starter Project andrewhfarmer.com/starter-project/ -->
 <!-- Angular Starter Project github.com/gianarb/awesome-angularjs -->
 <!-- search on google <JSFramework> + Development enviroment -->
