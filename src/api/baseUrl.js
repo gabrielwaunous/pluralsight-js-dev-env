@@ -1,5 +1,5 @@
 export default function getBaseUrl(){
-  return getQueryStringParameterByName('useMockApi')?'http://localhost:3001/' : '/';
+  return getQueryStringParameterByName('useMockApi')?'http://localhost:3001/' : 'https://infinite-meadow-12725.herokuapp.com/';
 }
 
 function getQueryStringParameterByName(name, url) {
